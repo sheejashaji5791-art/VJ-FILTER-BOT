@@ -38,6 +38,9 @@ class script(object):
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
 ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
 
+    SOURCE_TXT = """<b><blockquote>Nᴏᴛᴇ:</blockquote>
+<blockquote>✭ Tʜɪs Pʀᴏᴊᴇᴄᴛ Isɴ'ᴛ Oᴘᴇɴ–Sᴏᴜʀᴄᴇ. Iғ Yᴏᴜ Nᴇᴇᴅ Aɴʏ Hᴇʟᴘ Oʀ Hᴀᴠᴇ Qᴜᴇsᴛɪᴏɴs, Yᴏᴜ Cᴀɴ Mᴇssᴀɢᴇ Us Dɪʀᴇᴄᴛʟʏ</blockquote>
+<blockquote>✭ Cᴏɴᴛᴀᴄᴛ ᴛᴏ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ☟.</blockquote></b>"""
     CLONE_TXT = """<b>🌟 <u>CLONE MODE</u>
 
 - Yᴏᴜ Cʀᴇᴀᴛᴇ Yᴏᴜʀ Oᴡɴ Cʟᴏɴᴇ Bᴏᴛ Bʏ /clone Cᴏᴍᴍᴀɴᴅ 
@@ -755,5 +758,6 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
 
 
