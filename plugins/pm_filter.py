@@ -1843,13 +1843,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
             buttons = [[
                 InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-                InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ', callback_data="shortlink_info"),
-                InlineKeyboardButton('Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url=GRP_LNK)
+                InlineKeyboardButton('🥀 Eᴀʀɴ Mᴏɴᴇʏ', callback_data="shortlink_info"),
+                InlineKeyboardButton('Mᴏᴠɪᴇ Gʀᴏᴜᴘ 🌿', url=GRP_LNK)
             ],[
-                InlineKeyboardButton('Hᴇʟᴘ', callback_data='help'),
-                InlineKeyboardButton('Aʙᴏᴜᴛ', callback_data='about')
+                InlineKeyboardButton('🍁 Hᴇʟᴘ', callback_data='help'),
+                InlineKeyboardButton('Aʙᴏᴜᴛ 🕵‍♀', callback_data='about')
             ],[
-                InlineKeyboardButton('Jᴏɪɴ Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ', callback_data='support')
+                InlineKeyboardButton('🍷 𝑺𝑢𝑝𝑝𝑜𝑟𝑡 🍷', callback_data='support')
             ]]
         if CLONE_MODE == True:
             buttons.append([InlineKeyboardButton('ᴄʀᴇᴀᴛᴇ ᴏᴡɴ ᴄʟᴏɴᴇ ʙᴏᴛ', callback_data='clone')])
@@ -3382,5 +3382,6 @@ async def global_filters(client, message, text=False):
                 break
     else:
         return False
+
 
 
