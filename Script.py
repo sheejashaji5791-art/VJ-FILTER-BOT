@@ -17,6 +17,7 @@ class script(object):
     
     HELP_TXT = """<b>ʜᴇʟʟᴏ {}
 ʜᴇʀᴇ ɪs ᴀʟʟ ᴍʏ ᴜsᴇғᴜʟʟ ғᴇᴀᴛᴜʀᴇs.</b>"""
+    EARN_TXT = """<b>Yᴏᴜ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ</b>"""
 
     ABOUT_TXT = """<b>
 <blockquote>🎭 Mʏ Nᴀᴍᴇ: <a href=https://t.me/{}>{}</a></blockquote>
@@ -758,6 +759,7 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
 
 
 
